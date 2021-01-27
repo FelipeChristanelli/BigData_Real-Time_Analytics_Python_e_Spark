@@ -1,6 +1,6 @@
 # Análise Estatística de Dados - Parte 2
 
-No 5º Capítulo, dando continuidade ao aprendizado de Estatística de Dados, neste capítulo voltado para Probabilidade e Estatística Inferencial:
+No 5º Capítulo, dando continuidade ao aprendizado de Estatística de Dados, com esse capítulo voltado para Probabilidade e Estatística Inferencial:
 
 <ul>
   <li>Introdução</li>
