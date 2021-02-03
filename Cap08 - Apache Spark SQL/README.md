@@ -1,6 +1,6 @@
-# Processando Big Data com Apache Spark
+# Apache Spark SQL
 
-No 7º Capítulo do curso, iniciamos aprendizados sobre Apache Spark, realizando aplicações através do Jupyter Notebook com Processamento PySpark:
+No 8º Capítulo do curso, entramos no aprendizado do Módulo para processar Dados Estruturados que é o Spark SQL, realizando aplicações através do Jupyter Notebook com Processamento PySpark:
 
 <ul>
   <li>Introdução</li>
