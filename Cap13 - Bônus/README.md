@@ -1,6 +1,6 @@
-# Bonus
+# Bônus
 
-Materiais em PDF com Script para introdução sobre:
+2 materiais bônus em PDF com Script para introdução sobre:
 
 <ul>
   <li>Usando R e Spark com SparkR</li>

@@ -1,6 +1,6 @@
 # Projetos com Feedback
 
-Dois PDF`s e dois Datasets para realização de projetos com base em todo aprendizado no curso para análise de dados e resolução de problemas de negócio que serão enviados para a equipe Data Science Academy fazer a avaliação e retornar um feedback:
+Foram entregues dois datasets com dois PDF's para realização de projetos de análise de dados e resolução de problemas de negócio com base em todo aprendizado no curso que serão enviados para a equipe Data Science Academy fazer a avaliação e retornar um feedback:
 
 <ul>
   <li>Prevendo o Nível de Satisfação dos Clientes do Santander</li>
